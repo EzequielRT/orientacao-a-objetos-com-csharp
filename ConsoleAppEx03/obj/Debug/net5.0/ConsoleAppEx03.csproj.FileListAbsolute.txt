@@ -1,0 +1,16 @@
+C:\Users\ezefu\Desktop\Estudos\NELIO\OrientacaoAObjetos\ConsoleAppEx03\bin\Debug\net5.0\ConsoleAppEx03.exe
+C:\Users\ezefu\Desktop\Estudos\NELIO\OrientacaoAObjetos\ConsoleAppEx03\bin\Debug\net5.0\ConsoleAppEx03.deps.json
+C:\Users\ezefu\Desktop\Estudos\NELIO\OrientacaoAObjetos\ConsoleAppEx03\bin\Debug\net5.0\ConsoleAppEx03.runtimeconfig.json
+C:\Users\ezefu\Desktop\Estudos\NELIO\OrientacaoAObjetos\ConsoleAppEx03\bin\Debug\net5.0\ConsoleAppEx03.runtimeconfig.dev.json
+C:\Users\ezefu\Desktop\Estudos\NELIO\OrientacaoAObjetos\ConsoleAppEx03\bin\Debug\net5.0\ConsoleAppEx03.dll
+C:\Users\ezefu\Desktop\Estudos\NELIO\OrientacaoAObjetos\ConsoleAppEx03\bin\Debug\net5.0\ref\ConsoleAppEx03.dll
+C:\Users\ezefu\Desktop\Estudos\NELIO\OrientacaoAObjetos\ConsoleAppEx03\bin\Debug\net5.0\ConsoleAppEx03.pdb
+C:\Users\ezefu\Desktop\Estudos\NELIO\OrientacaoAObjetos\ConsoleAppEx03\obj\Debug\net5.0\ConsoleAppEx03.csproj.AssemblyReference.cache
+C:\Users\ezefu\Desktop\Estudos\NELIO\OrientacaoAObjetos\ConsoleAppEx03\obj\Debug\net5.0\ConsoleAppEx03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezefu\Desktop\Estudos\NELIO\OrientacaoAObjetos\ConsoleAppEx03\obj\Debug\net5.0\ConsoleAppEx03.AssemblyInfoInputs.cache
+C:\Users\ezefu\Desktop\Estudos\NELIO\OrientacaoAObjetos\ConsoleAppEx03\obj\Debug\net5.0\ConsoleAppEx03.AssemblyInfo.cs
+C:\Users\ezefu\Desktop\Estudos\NELIO\OrientacaoAObjetos\ConsoleAppEx03\obj\Debug\net5.0\ConsoleAppEx03.csproj.CoreCompileInputs.cache
+C:\Users\ezefu\Desktop\Estudos\NELIO\OrientacaoAObjetos\ConsoleAppEx03\obj\Debug\net5.0\ConsoleAppEx03.dll
+C:\Users\ezefu\Desktop\Estudos\NELIO\OrientacaoAObjetos\ConsoleAppEx03\obj\Debug\net5.0\ref\ConsoleAppEx03.dll
+C:\Users\ezefu\Desktop\Estudos\NELIO\OrientacaoAObjetos\ConsoleAppEx03\obj\Debug\net5.0\ConsoleAppEx03.pdb
+C:\Users\ezefu\Desktop\Estudos\NELIO\OrientacaoAObjetos\ConsoleAppEx03\obj\Debug\net5.0\ConsoleAppEx03.genruntimeconfig.cache
